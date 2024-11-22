@@ -1,1 +1,2 @@
 # google-progress-bar
+In today’s fast-paced world, managing time and staying productive can be challenging, especially when looking at a plain screen with endless tasks. Not everyone has a window in front of their desk with a relaxing view.  Inspired by the calming effects of rain—the look, the sound, and the feel—our project introduces an IoT-based “Smart Glass” that combines task management with a relaxing visual experience.
